@@ -32,8 +32,8 @@ var roundsd = require( './../../dist' );
 
 // FIXTURES //
 
-var base2 = require( './../..xtures/julia/base_2_sigfigs_4.json' );
-var base16 = require( './../..xtures/julia/base_16_sigfigs_4.json' );
+var base2 = require( './../fixtures/julia/base_2_sigfigs_4.json' );
+var base16 = require( './../fixtures/julia/base_16_sigfigs_4.json' );
 
 
 // TESTS //
