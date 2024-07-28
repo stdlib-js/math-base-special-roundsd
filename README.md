@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import roundsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundsd@esm/index.mjs';
+import roundsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundsd@v0.2.2-esm/index.mjs';
 ```
 
 #### roundsd( x, n\[, b] )
@@ -90,7 +90,7 @@ var v = roundsd( 0.0313, 2, 2 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import roundsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundsd@esm/index.mjs';
+import roundsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundsd@v0.2.2-esm/index.mjs';
 
 var x;
 var y;
