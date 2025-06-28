@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-28)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`48dc3a0`](https://github.com/stdlib-js/stdlib/commit/48dc3a0e06467a3bf3710ef514b70ce61f9dab3e) - add missing include header
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`48dc3a0`](https://github.com/stdlib-js/stdlib/commit/48dc3a0e06467a3bf3710ef514b70ce61f9dab3e) - **fix:** add missing include header _(by Philipp Burckhardt)_
 -   [`f63f8df`](https://github.com/stdlib-js/stdlib/commit/f63f8df9abf7a7ddf9de4e895a64e4699d2f378b) - **style:** remove header section comments from C files _(by Philipp Burckhardt)_
 -   [`9c34a77`](https://github.com/stdlib-js/stdlib/commit/9c34a77e29807a5f03506d3da65e8c34f0483f5b) - **feat:** add C implementation for `math/base/special/roundsd` [(#4438)](https://github.com/stdlib-js/stdlib/pull/4438) _(by Shabareesh Shetty, Athan Reines, stdlib-bot, Karan Anand)_
 -   [`5df078f`](https://github.com/stdlib-js/stdlib/commit/5df078fd493ee2d6750fa0be85cb3b39236e227c) - **docs:** replace manual `for` loop in examples [(#6494)](https://github.com/stdlib-js/stdlib/pull/6494) _(by Harsh)_
