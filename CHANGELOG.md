@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-08-11)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -35,8 +35,8 @@
 -   [`48dc3a0`](https://github.com/stdlib-js/stdlib/commit/48dc3a0e06467a3bf3710ef514b70ce61f9dab3e) - **fix:** add missing include header _(by Philipp Burckhardt)_
 -   [`f63f8df`](https://github.com/stdlib-js/stdlib/commit/f63f8df9abf7a7ddf9de4e895a64e4699d2f378b) - **style:** remove header section comments from C files _(by Philipp Burckhardt)_
 -   [`9c34a77`](https://github.com/stdlib-js/stdlib/commit/9c34a77e29807a5f03506d3da65e8c34f0483f5b) - **feat:** add C implementation for `math/base/special/roundsd` [(#4438)](https://github.com/stdlib-js/stdlib/pull/4438) _(by Shabareesh Shetty, Athan Reines, stdlib-bot, Karan Anand)_
--   [`5df078f`](https://github.com/stdlib-js/stdlib/commit/5df078fd493ee2d6750fa0be85cb3b39236e227c) - **docs:** replace manual `for` loop in examples [(#6494)](https://github.com/stdlib-js/stdlib/pull/6494) _(by Harsh)_
--   [`7f74294`](https://github.com/stdlib-js/stdlib/commit/7f7429488d85514b016581098e1faefab81f8034) - **bench:** update random value generation [(#6428)](https://github.com/stdlib-js/stdlib/pull/6428) _(by Harsh)_
+-   [`5df078f`](https://github.com/stdlib-js/stdlib/commit/5df078fd493ee2d6750fa0be85cb3b39236e227c) - **docs:** replace manual `for` loop in examples [(#6494)](https://github.com/stdlib-js/stdlib/pull/6494) _(by Harsh Yadav)_
+-   [`7f74294`](https://github.com/stdlib-js/stdlib/commit/7f7429488d85514b016581098e1faefab81f8034) - **bench:** update random value generation [(#6428)](https://github.com/stdlib-js/stdlib/pull/6428) _(by Harsh Yadav)_
 
 </details>
 
@@ -51,7 +51,7 @@
 A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Shabareesh Shetty
