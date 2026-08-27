@@ -35,6 +35,22 @@ limitations under the License.
 
 > Round a double-precision floating-point number to the nearest value with `n` significant figures.
 
+<section class="intro">
+
+The function rounds a numeric value to the specified number of [significant figures][significant-figures]
+
+<!-- <equation class="equation" label="eq:roundsd_function" align="center" raw="y = \left\lfloor x \cdot b^{n - \lfloor \log_b |x| \rfloor - 1} + 0.5 \right\rfloor \cdot b^{\lfloor \log_b |x| \rfloor - n + 1}" alt="Round to n significant figures"> -->
+
+```math
+y = \left\lfloor x \cdot b^{n - \lfloor \log_b |x| \rfloor - 1} + 0.5 \right\rfloor \cdot b^{\lfloor \log_b |x| \rfloor - n + 1}
+```
+
+<!-- </equation> -->
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
@@ -293,6 +309,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-roundsd/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-roundsd/main/LICENSE
+
+[significant-figures]: https://en.wikipedia.org/wiki/Significant_figures
 
 <!-- <related-links> -->
 
